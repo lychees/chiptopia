@@ -1,4 +1,4 @@
-## 什么事 Chiptopia
+## 什么是 Chiptopia
 Chiptopia 计划源于独立之光的纸上游戏工坊，计划支持自定义简单桌上游戏，打算首先支持弹射骑士团。
 弹射骑士团的游戏规则参见[这里](https://github.com/lychees/chiptopia/blob/master/PLAYBOOK.MD)
 
@@ -27,16 +27,19 @@ python -m http.server 23333
 
 ## 开发计划
 - Support Toolbox
--- 选中（编辑）
--- 拖拽
--- 射击
--- 添加物品
---- 筹码
---- 骰子	
---- 障碍
---- 卡片
--- etc
--- Save
--- Load
-- Support multiplayer
+ - 选中（编辑）
+ - 拖拽
+ - 射击
+ - 添加物品
+  - 筹码
+  - 骰子	
+  - 障碍
+  - 卡片
+  - etc
+ - Save
+ - Load
+ - Import
+ - Export
+- Support Multiplayer
+ - Web Sokect
 - Support AI player
