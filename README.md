@@ -1,11 +1,19 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/MinakoKojima/pen/pWNpKR.
-
-弹射骑士团是一个桌面游戏。
-
-
+弹射骑士团是一款多人桌面游戏的线上版。
+游戏规则参见[这里](https://github.com/lychees/chiptopia/blob/master/PLAYBOOK.MD)
 
 ## 什么是独立之光
+独立之光，位于上海古美路1487弄21号。一家游戏行业的非营利机构，专注扶持有才华的开发者。并有光之希望计划、发展支持体系、创新项目孵化实验室等本地化游戏支持项目，长期为游戏开发者服务的组织。
+
+- https://www.zhihu.com/people/hardcoregame/activities
+- http://weibo.com/indielight?is_all=1
+
 ## 什么是纸上游戏工坊
-## TODO list
--  Add a AI player and make it better.
--
+
+- https://www.bilibili.com/video/av7609464/?from=search&seid=6682407229705020587
+- https://www.indienova.com/indie-game-development/indielightxindienova-02/
+- http://www.sohu.com/a/165850551_99890953
+
+## 开发计划
+- Add UI.
+- Support multiplayer.
+- Support AI player.
