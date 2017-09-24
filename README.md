@@ -7,6 +7,14 @@
 - https://www.zhihu.com/people/hardcoregame/activities
 - http://weibo.com/indielight?is_all=1
 
+## 运行方法
+You can use Python2 [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html).
+' python -m SimpleHTTPServer 23333
+
+Or [http.server](https://docs.python.org/3/library/http.server.html?highlight=http%20server#module-http.server) if you are using Python3.
+
+' python -m http.server 23333
+
 ## 什么是纸上游戏工坊
 
 - https://www.bilibili.com/video/av7609464/?from=search&seid=6682407229705020587
