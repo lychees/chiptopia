@@ -10,11 +10,14 @@ Chiptopia 计划源于独立之光的纸上游戏工坊，计划支持自定义�
 
 ## 运行方法
 You can use Python2 [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html).
-``` python -m SimpleHTTPServer 23333
+~~~~
+python -m SimpleHTTPServer 23333
+~~~~
 
 Or [http.server](https://docs.python.org/3/library/http.server.html?highlight=http%20server#module-http.server) if you are using Python3.
-
-``` python -m http.server 23333
+~~~~
+python -m http.server 23333
+~~~~
 
 ## 什么是纸上游戏工坊
 
