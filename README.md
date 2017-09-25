@@ -32,19 +32,19 @@ python -m http.server 23333
 
 ## 开发计划
 - Support Toolbox
-	- 选中（编辑）
+	- 选中
  	- 拖拽
- - 射击
- - 添加物品
-  - 筹码
-  - 骰子	
-  - 障碍
-  - 卡片
-  - etc
- - Save
- - Load
- - Import
- - Export
+ 	- 射击
+ 	- 添加物品
+  		- 筹码
+  		- 骰子	
+  		- 障碍
+  		- 卡片
+  		- etc
+ 	- Save 存储游戏状态
+ 	- Load 载入游戏状态
+ 	- Import 导入自定义游戏
+ 	- Export 导出自定义游戏
 - Support Multiplayer
 	- Web Sokect
 - Support AI player
