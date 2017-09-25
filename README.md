@@ -1,6 +1,8 @@
 ## 什么是 Chiptopia
-Chiptopia 计划源于独立之光的纸上游戏工坊，计划支持自定义简单桌上游戏，打算首先支持弹射骑士团。
-弹射骑士团的游戏规则参见[这里](https://github.com/lychees/chiptopia/blob/master/PLAYBOOK.MD)
+Chiptopia 项目源于独立之光的纸上游戏工坊，计划支持自定义简单桌上游戏的沙盒，打算首先支持[弹射骑士团](https://github.com/lychees/chiptopia/blob/master/PLAYBOOK.MD)
+
+参考：
+- [Tabletop Simulator](http://store.steampowered.com/app/286160/Tabletop_Simulator/)
 
 ## 什么是独立之光
 独立之光，位于上海古美路1487弄21号。一家游戏行业的非营利机构，专注扶持有才华的开发者。并有光之希望计划、发展支持体系、创新项目孵化实验室等本地化游戏支持项目，长期为游戏开发者服务的组织。
@@ -9,6 +11,9 @@ Chiptopia 计划源于独立之光的纸上游戏工坊，计划支持自定义�
 - http://weibo.com/indielight?is_all=1
 
 ## 运行方法
+
+Chiptopia 使用 [matter.js](http://brm.io/matter-js/) 作为物理引擎。
+
 You can use Python2 [SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html).
 ~~~~
 python -m SimpleHTTPServer 23333
@@ -27,8 +32,8 @@ python -m http.server 23333
 
 ## 开发计划
 - Support Toolbox
- - 选中（编辑）
- - 拖拽
+	- 选中（编辑）
+ 	- 拖拽
  - 射击
  - 添加物品
   - 筹码
@@ -41,5 +46,5 @@ python -m http.server 23333
  - Import
  - Export
 - Support Multiplayer
- - Web Sokect
+	- Web Sokect
 - Support AI player
