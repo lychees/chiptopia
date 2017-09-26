@@ -3,6 +3,7 @@ Chiptopia 项目源于独立之光的纸上游戏工坊，计划支持自定义�
 
 参考：
 - [Tabletop Simulator](http://store.steampowered.com/app/286160/Tabletop_Simulator/)
+- [Google Blockly](https://developers.google.com/blockly/)
 
 ## 什么是独立之光
 独立之光，位于上海古美路1487弄21号。一家游戏行业的非营利机构，专注扶持有才华的开发者。并有光之希望计划、发展支持体系、创新项目孵化实验室等本地化游戏支持项目，长期为游戏开发者服务的组织。
